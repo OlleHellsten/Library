@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" ?>
-<testsuite tests="5" failures="0" name="se.yrgo.olle.BookCatalogTest" time="0.02" errors="0" skipped="0">
+<testsuite tests="5" failures="0" name="se.yrgo.olle.BookCatalogTest" time="0.024" errors="0" skipped="0">
   <properties>
     <property name="java.runtime.name" value="OpenJDK Runtime Environment"/>
     <property name="java.vm.version" value="17.0.13+11-Ubuntu-2ubuntu122.04"/>
@@ -57,9 +57,9 @@
     <property name="sun.cpu.endian" value="little"/>
     <property name="sun.stdout.encoding" value="UTF-8"/>
   </properties>
-  <testcase classname="se.yrgo.olle.BookCatalogTest" name="testAddBook" time="0.02"/>
+  <testcase classname="se.yrgo.olle.BookCatalogTest" name="testAddBook" time="0.023"/>
   <testcase classname="se.yrgo.olle.BookCatalogTest" name="testFindBook" time="0"/>
-  <testcase classname="se.yrgo.olle.BookCatalogTest" name="testFindBookIgnoringCase" time="0"/>
+  <testcase classname="se.yrgo.olle.BookCatalogTest" name="testFindBookIgnoringCase" time="0.001"/>
   <testcase classname="se.yrgo.olle.BookCatalogTest" name="testFindBookWithExtraSpaces" time="0"/>
   <testcase classname="se.yrgo.olle.BookCatalogTest" name="testFindBookThatDoesntExist" time="0"/>
 </testsuite>
