@@ -1,0 +1,45 @@
+-J-Duser.language=
+-J-Duser.country=
+@options
+@packages
+-encoding
+'UTF-8'
+-protected
+-source
+'17'
+-sourcepath
+'/mnt/c/yrgo/kurser/uvv/Library/src/main/java'
+-author
+-bottom
+'Copyright &#169; 2025. All rights reserved.'
+-charset
+'UTF-8'
+-d
+'/mnt/c/yrgo/kurser/uvv/Library/target/reports/apidocs'
+-docencoding
+'UTF-8'
+-doctitle
+'Library 1.0-SNAPSHOT API'
+-use
+-version
+-windowtitle
+'Library 1.0-SNAPSHOT API'
+se.yrgo.olle
+/mnt/c/yrgo/kurser/uvv/Library/src/main/java = 1737241095017
+/mnt/c/yrgo/kurser/uvv/Library/target/reports/apidocs/allclasses-index.html = 1737249791296
+/mnt/c/yrgo/kurser/uvv/Library/target/reports/apidocs/allpackages-index.html = 1737249791300
+/mnt/c/yrgo/kurser/uvv/Library/target/reports/apidocs/element-list = 1737249791066
+/mnt/c/yrgo/kurser/uvv/Library/target/reports/apidocs/help-doc.html = 1737249791350
+/mnt/c/yrgo/kurser/uvv/Library/target/reports/apidocs/index-all.html = 1737249791339
+/mnt/c/yrgo/kurser/uvv/Library/target/reports/apidocs/index.html = 1737249791343
+/mnt/c/yrgo/kurser/uvv/Library/target/reports/apidocs/jquery-ui.overrides.css = 1737249791420
+/mnt/c/yrgo/kurser/uvv/Library/target/reports/apidocs/member-search-index.js = 1737249791314
+/mnt/c/yrgo/kurser/uvv/Library/target/reports/apidocs/module-search-index.js = 1737249791304
+/mnt/c/yrgo/kurser/uvv/Library/target/reports/apidocs/overview-tree.html = 1737249791272
+/mnt/c/yrgo/kurser/uvv/Library/target/reports/apidocs/package-search-index.js = 1737249791307
+/mnt/c/yrgo/kurser/uvv/Library/target/reports/apidocs/script.js = 1737249791359
+/mnt/c/yrgo/kurser/uvv/Library/target/reports/apidocs/search.js = 1737249791372
+/mnt/c/yrgo/kurser/uvv/Library/target/reports/apidocs/serialized-form.html = 1737249791124
+/mnt/c/yrgo/kurser/uvv/Library/target/reports/apidocs/stylesheet.css = 1737249791355
+/mnt/c/yrgo/kurser/uvv/Library/target/reports/apidocs/tag-search-index.js = 1737249791317
+/mnt/c/yrgo/kurser/uvv/Library/target/reports/apidocs/type-search-index.js = 1737249791310
